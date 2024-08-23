@@ -11,8 +11,8 @@ date: 2024-08/19
 - Email: zhanglei@niu.edu
 - Quarter: Fall 2024
 - Time: T/Th 2:00-3:15p 
-- Location: Psychology-Computer Science (PM), room number TBD.
-- Office Hours: TBD 
+- Location: PM156
+- Office Hours: T/TH 3:15-5:15p 
 
 ## Course Outline (Suject to Change)
 - Course Introduction
@@ -29,16 +29,72 @@ date: 2024-08/19
 - Graph Generative Models
 
 ## Grading
-- 25% In-Class Quiz
+- 25% Participation
     - 2 surveys (5% = 2 * 2.5%)
     - 4 open book quizzes (20% = 4 * 5%)
-- 30% Homework (10% * 3)
+- 30% Homework Assignment(10% * 3)
 - 45% Course Project
-    - topic selection and team building, 5%
-    - mid-term presentation, 10%
-    - final presentation, 30%
-- 5% Bonus: In-Class Interactions
+    - Topic selection and team building, 5%
+    - Mid-term presentation, 5%
+    - Proposal, 5%
+    - Final presentation, 15%
+    - Fianl report: 15%
+- 5% Bonus: In-Class interactions, excellent project project deliverables, etc. 
 
+
+## Communication
+
+- In-class questions
+    - Raise your hand 
+    - Ask on Slido (might be answered after class)
+- Questions about course content or homework assignments
+    - Ask on Slido or Blackboard-Discussions
+    - Ask in-person during my office hours or by appointment
+- Feedback is welcome (about content, pace, workload, etc. )
+
+## Homework Assignment
+
+3 homework assignments 
+- A combination of data analysis, coding, and math
+- Submit with Google Colab link
+
+## Course Project
+- A team consisting of 1-3 students. 
+- The proposal must contain:
+    - Task Definition: Describe what you plan to do
+    - Literature Review: Briefly describe the related work
+    - Relationship with your readings
+    - Motivation: Describe why your project is important
+    - Method: What technique you plan to apply?
+    - Evaluation: What would the successful outcome of your project look like?
+- The project report is expected to be 4 (abstract/demo) to 8 (full paper) pages long (excluding references) in [IEEE format](https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn) and should contain the following sections:
+    - Introduction
+    - Related Work
+    - Proposed Method
+    - Experiments (codes and datasets should be open to the public) 
+    - Results and Discussions
+    - Conclusions
+    - Contributions of Members
+- Grading policy: 
+    - You must incorporate a graph neural network in your project, and the use of open-source projects is allowed only with significant modifications.
+    - The course project will be graded primarily on its completeness and accuracy.
+    - While making original technical contributions is not required, doing so will earn you bonus points.
+
+
+
+
+## Course Materials
+- Slides will be shared before the class begins
+- Optional readings
+    - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/). William L Hamilton, 2020
+    - [Deep learning on Graphs](https://yaoma24.github.io/dlg_book/). Yao Ma and Jiliang Tang, preprint
+    - https://github.com/thunlp/GNNPapers
+    - https://github.com/zlpure/awesome-graph-representation-learning
+    - https://hhaji.github.io/Deep-Learning/Graph-Neural-Networks
+    - https://web.stanford.edu/class/cs224w/index.html
+    
+
+    
 
 ## Academic Integrity Statement
 
