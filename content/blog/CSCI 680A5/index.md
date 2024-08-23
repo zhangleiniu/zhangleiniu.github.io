@@ -26,6 +26,7 @@ date: 2024-08/19
 - Fast and Scalable GNNs
 - Implicit Graph Neural Networks
 - Algorithmic Reasoning
+- Graphs and Neural Network Architectures
 - Graph Generative Models
 
 ## Grading
@@ -49,14 +50,15 @@ date: 2024-08/19
     - Ask on Slido (might be answered after class)
 - Questions about course content or homework assignments
     - Ask on Slido or Blackboard-Discussions
+    - Asking good questions or answering other students’ questions may give you bonus
+- Questions about course project
     - Ask in-person during my office hours or by appointment
-- Feedback is welcome (about content, pace, workload, etc. )
+- Feedback is welcome (about content, pace, workload, etc. ): Email me. Anonymous messages are fine, too. 
 
 ## Homework Assignment
 
 3 homework assignments 
-- A combination of data analysis, coding, and math
-- Submit with Google Colab link
+- Assignments may involve data analysis, coding, and mathematical elements.
 
 ## Course Project
 - A team consisting of 1-3 students. 
