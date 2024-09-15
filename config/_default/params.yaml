@@ -13,9 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'NIU'
+    description: 'Lei Zhang, Assistant Professor, NIU CS, Graph Learning, Network Science, Machine Learning'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -55,6 +54,6 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/HugoBlox/hugo-blox-builder/'
-    content_dir: starters/blog/content
+    url: 'https://github.com/zhangleiniu/'
+    content_dir: content
     branch: main

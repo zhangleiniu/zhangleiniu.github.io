@@ -1,31 +1,29 @@
 ---
-# Display name
 title: Lei Zhang
+role: Assistant Prof.
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
 
-# Full name (for SEO)
 first_name: Lei
 last_name: Zhang
 
-# Status emoji
 status:
   icon: ✨
-
-# Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: Assistant Professor of Computer Science
 
-# Organizations/Affiliations to show in About widget
 organizations:
   - name: Northern Illinois University
     url: https://www.cs.niu.edu/
 
-# Short bio (displayed in user profile at end of posts)
 bio: I am an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. For students interested in my research, please explore the opportunities to work with me. If you are interested in my courses, please preview the course syllabi.
+
+
+{{% callout note %}}
+Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
+{{% /callout %}}
+
+* `[Tutorial]` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+* `[Paper]` 10/23: One paper is accepted by International Conference on Data Mining (ICDM) 23' [Infinitely Deep Graph Transformation Networks](https://people.cs.vt.edu/~ctlu/Publication/2023/ICDM-Lei-Zhang-2023.pdf)
 
 
 # Social Networking

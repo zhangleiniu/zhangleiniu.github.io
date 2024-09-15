@@ -5,9 +5,12 @@ main:
   - name: Home
     url: /
     weight: 10
-  # - name: Topics
-  #   url: tags/
-  #   weight: 20
-  # - name: Uses
-  #   url: uses/
-  #   weight: 30
+ - name: Research
+    url: '#research'
+    weight: 20
+  - name: Papers
+    url: 'https://scholar.google.com/citations?user=dsOZQfAAAAAJ'
+    weight: 30
+  - name: Teach
+    url: 'teach'
+    weight: 40
