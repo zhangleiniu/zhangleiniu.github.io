@@ -1,0 +1,183 @@
+// Override this file to add your own SCSS styling.
+body, .section-heading h1, nav span, .navbar-brand, .card-link{
+	font-family: "josefin sans", Optima, "Avenir Next", Avenir, Calibri, Arial, sans-serif;
+}
+
+.container, .container-xl, .article-container, .universal-wrapper{
+	max-width:1500px;
+	padding: 0px;
+}
+
+.universal-wrapper{
+	width:1500px;
+}
+.article-style .bio-text {
+	text-align: left;
+	max-width: 100% 
+}
+
+.home-section:first-of-type{
+	padding-top: 15px;
+}
+.home-section{
+	padding: 15px;
+}
+.home-section {
+	margin: 5px;
+	padding: 15px;
+}
+
+.col-lg-8 {
+	flex: 1;
+	min-width: 300px;
+	font-size: 0.8em;
+}
+  
+@media (min-width: 992px) {
+	.col-lg-8 {
+		max-width: 76%;
+	}
+}
+  
+.col-lg-4 {
+max-width: 24%;
+min-width: 350px;
+}
+
+@media (max-width: 991.98px) {
+	.col-lg-4 {
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+.card{
+	width: 32%;
+	display: inline-flex;
+	height: 180px;
+	min-width:300px;
+}
+.card .card-text{
+	padding: 0.3rem;
+}
+.card-link{
+	font-size: 0.75rem;
+}
+.card.course{
+	margin: 3px;
+}
+.card-body img{
+	height: 50px;
+}
+.card-body{
+	padding: 0.5rem;
+}
+.card .section-subheading{
+	font-size: 0.75rem;
+}
+
+.projects-container{
+	min-width: 300px;
+}
+
+.avatar-circle{
+	border-radius: 5%
+}
+#profile{
+	text-align: center;
+	padding: 5px;
+}
+.avatar{
+	width: 320px;
+	height: 320px;
+}
+
+.fab, .fas, .ai{
+	color: rgb(31, 61, 131);
+}
+body.dark .fab, body.dark .fas, body.dark .ai{
+	color: rgb(64, 117, 241);
+}
+
+.powered-by, .powered-by .fab, .powered-by a{
+	color:#a8a8a8;
+}
+.btn-primary{
+	background-color: #0d72ad;
+	border-color: #0b3262;
+}
+.btn-primary:hover{
+	background-color: #106d89;
+	border-color: #07415c;
+}
+
+.col-md-6{
+	max-width: 100%;
+	font-size: 0.9rem;
+}
+
+.col-md-6 .section-subheading{
+	font-size: 0.9rem;
+}
+
+.isotope-item{
+	margin: 0;
+	padding: 0;
+	width: 49%;
+	height: 250px;
+	min-width: 300px;
+	min-height: 200px;
+}
+.mb-5{
+	margin-bottom: 0 !important;
+}
+
+.view-showcase{
+	margin: 15px;
+	padding: 0;
+	width: 100%;
+}
+.view-showcase .row{
+	margin: 0;
+	padding: 0;
+}
+.view-showcase img{
+	height: 180px !important;
+	border: #bcbcbc 1px solid;
+}
+
+#profile .network-icon{
+	margin: 0;
+}
+#profile .network-icon li {
+	margin-right: 5px;
+}
+
+.alert, .article-style aside {
+    position: relative;
+    padding: 0.45rem 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 0.25rem;
+}
+div.alert > div{
+	font-size: 0.85rem;
+}
+
+code{
+	color:#05405b ;
+	font-weight: 550;
+	font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.article-style ul strong{
+	color:#7d0905 ;
+	font-weight: 600;
+	font-family: Tahoma, sans-serif
+}
+
+body.dark code{
+	color:#168dd6;
+}
+
+body.dark .article-style ul strong{
+	color:#f14545;
+}
