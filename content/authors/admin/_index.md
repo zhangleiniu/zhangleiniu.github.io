@@ -17,14 +17,6 @@ organizations:
 
 bio: I am an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. For students interested in my research, please explore the opportunities to work with me. If you are interested in my courses, please preview the course syllabi.
 
-{{% callout note %}}
-Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
-{{% /callout %}}
-
-* `[Tutorial]` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
-* `[Paper]` 10/23: One paper is accepted by International Conference on Data Mining (ICDM) 23' [Infinitely Deep Graph Transformation Networks](https://people.cs.vt.edu/~ctlu/Publication/2023/ICDM-Lei-Zhang-2023.pdf)
-
-
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -56,3 +48,10 @@ website: "leizhang.phd"
 ---
 
 Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. 
+
+{{% callout note %}}
+Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
+{{% /callout %}}
+
+* `[Tutorial]` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+* `[Paper]` 10/23: One paper is accepted by International Conference on Data Mining (ICDM) 23' [Infinitely Deep Graph Transformation Networks](https://people.cs.vt.edu/~ctlu/Publication/2023/ICDM-Lei-Zhang-2023.pdf)
