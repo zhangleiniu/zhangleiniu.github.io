@@ -47,7 +47,8 @@ highlight_name: true
 website: "leizhang.phd"
 ---
 
-Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. 
+Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. For students interested in my research, please explore the opportunities to work with me. If you are interested in my courses, please preview the course syllabi.
+
 
 {{% callout note %}}
 Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**

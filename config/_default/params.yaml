@@ -5,8 +5,10 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: blue
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
 
 # SEO
 marketing:
@@ -29,6 +31,8 @@ marketing:
 header:
   navbar:
     enable: true
+    align: l
+    show_logo: true
     show_search: true
     show_theme_chooser: true
 
@@ -57,3 +61,36 @@ features:
     url: 'https://github.com/zhangleiniu/'
     content_dir: content
     branch: main
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
