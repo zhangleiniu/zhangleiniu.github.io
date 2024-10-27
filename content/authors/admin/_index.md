@@ -19,7 +19,7 @@ bio: I am an Assistant Professor of Computer Science at Northern Illinois Univer
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+social:
   - icon: at-symbol
     url: 'mailto:zhanglei@niu.edu'
     label: E-mail Me
@@ -37,6 +37,7 @@ profiles:
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
   - icon: google-scholar
+    icon_pack: ai
     url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
 
 
