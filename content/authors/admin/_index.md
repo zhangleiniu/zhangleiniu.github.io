@@ -24,7 +24,7 @@ profiles:
     url: 'mailto:zhanglei@niu.edu'
     label: E-mail Me
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: custom
     url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
