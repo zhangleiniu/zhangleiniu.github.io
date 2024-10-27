@@ -35,6 +35,7 @@ header:
     show_logo: true
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
 
 # Site footer
 footer:
@@ -90,6 +91,13 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
 
 security:
   # Allow frame for embedding speaker notes in slides
