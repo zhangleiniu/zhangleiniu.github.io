@@ -36,8 +36,7 @@ profiles:
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
-  - icon: google-scholar
-    icon_pack: "academicons"
+  - icon: custom/google-scholar
     url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
 
 
