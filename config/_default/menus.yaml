@@ -8,8 +8,8 @@ main:
 #  - name: Research
 #     url: '#research'
 #     weight: 20
-  - name: Papers
-    url: 'https://scholar.google.com/citations?user=dsOZQfAAAAAJ'
+  - name: Google Scholar
+    url: 'https://scholar.google.com/citations?hl=en&user=E9jCXUcAAAAJ'
     weight: 30
   # - name: Teach
   #   url: 'teach'
