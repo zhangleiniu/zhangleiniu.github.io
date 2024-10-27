@@ -52,8 +52,11 @@ Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois Uni
 
 
 {{% callout note %}}
-Join us at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791) and [**CIKM 24'**](https://cikm2024.org/tutorials/) for our tutorial on **Unifying Spectral and Spatial Graph Neural Network**
+Hiring PhD student to work on Graph Neural Network in Fall 2025. Fill [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfn6kMO-Wleb7R2NJLsJsbTc5N7gX1r4hx5oZacs2Od-rGUEA/viewform?usp=send_form) to apply.
 {{% /callout %}}
 
-* `[Tutorial]` 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
-* `[Paper]` 10/23: One paper is accepted by International Conference on Data Mining (ICDM) 23' [Infinitely Deep Graph Transformation Networks](https://people.cs.vt.edu/~ctlu/Publication/2023/ICDM-Lei-Zhang-2023.pdf)
+* 10/24 Tutorial Session at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)
+* 10/24 Tutorial Session at [**CIKM 24'**](https://cikm2024.org/tutorials/) 
+* 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+* 08/24: Joined the Computer Science Department of Northern Illinois University
+* 10/23: One paper is accepted by International Conference on Data Mining (ICDM) 23' [Infinitely Deep Graph Transformation Networks](https://people.cs.vt.edu/~ctlu/Publication/2023/ICDM-Lei-Zhang-2023.pdf)
