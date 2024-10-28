@@ -1,6 +1,6 @@
 ---
 title: CSCI 680A5 Machine Learning with Graphs
-date: 2024-08/19
+date: 2024-08-19
 ---
 
 **Course Description**: While existing deep learning methods have seen success with image, video, and text data, many real-world applications fall outside these domains. Graph neural networks—also known as deep learning on graphs or geometric deep learning—have emerged as one of the fastest-growing research areas in machine learning, particularly in deep learning. This course aims to provide a comprehensive introduction to graph neural networks, covering their foundations, cutting-edge developments, and applications.
