@@ -7,6 +7,17 @@ sections:
     content:
       # The user's folder name in content/authors/
       username: admin
+  - block: features
+    content:
+      title: My Interests
+      subtitle: Section subtitle
+      text: Section text
+      items: 
+        - Artificial Intelligence
+        - Machine Learning
+        - Graph Learning
+        - AI for Science
+        - Bi-Level Optimization
     # design:
     #   spacing:
     #     padding: [0, 0, 0, 0]

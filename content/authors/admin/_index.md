@@ -19,18 +19,18 @@ bio: I am an Assistant Professor of Computer Science at Northern Illinois Univer
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:zhanglei@niu.edu'
-    label: E-mail Me
-  - icon: assets/media/icons/google-scholar.svg
-    url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:zhanglei@niu.edu'
+#     label: E-mail Me
+#   - icon: assets/media/icons/google-scholar.svg
+#     url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/lei-zhang-vt23/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/in/lei-zhang-vt23/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   # - icon: academicons/cv
   #   url: uploads/resume.pdf
