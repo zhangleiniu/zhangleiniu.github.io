@@ -23,8 +23,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zhanglei@niu.edu'
     label: E-mail Me
-  - icon: /google-scholar.svg
-    icon_pack: custom
+  - icon: assets/media/icons/google-scholar.svg
     url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -40,7 +39,13 @@ profiles:
   #   url: ./post/index.xml
   #   label: Subscribe to my blog via RSS feed
 
-
+# Interests
+interests: 
+  - Artificial Intelligence
+  - Machine Learning
+  - Graph Learning
+  - AI for Science
+  - Bi-Level Optimization
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -49,7 +54,7 @@ highlight_name: true
 website: "leizhang.phd"
 ---
 
-Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. For students interested in my research, please explore the opportunities to work with me. If you are interested in my courses, please preview the course syllabi.
+Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. 
 
 
 {{% callout note %}}
