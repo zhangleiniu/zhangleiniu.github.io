@@ -54,7 +54,9 @@ highlight_name: true
 website: "leizhang.phd"
 ---
 
-Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. 
+Lei Zhang is currently an Assistant Professor of Computer Science at Northern Illinois University. 
+
+I got my Ph.D. degree at Virginia Tech, advised by Prof. Chang-Tien Lu. 
 
 
 {{% callout note %}}
