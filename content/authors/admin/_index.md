@@ -23,7 +23,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zhanglei@niu.edu'
     label: E-mail Me
-  - icon: google-scholar.svg
+  - icon: /google-scholar.svg
     icon_pack: custom
     url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
   # - icon: brands/x
