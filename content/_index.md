@@ -7,36 +7,7 @@ sections:
     content:
       # The user's folder name in content/authors/
       username: admin
-  - block: features
-      id: research
-      content:
-        title: Research Topics
-        text: on Graph Dynamics
-        items:
-        - icon: wave-square
-          icon_pack: fas
-          name: Spectral Graph Theory
-          description: Explore dynamic, directed, heterogeneous graph representations.
-        - icon: cubes
-          icon_pack: fas
-          name: Higher-order Analysis on Graphs
-          description: Develop higher-order analysis methods for graph dynamics.
-        - icon: chart-line
-          icon_pack: fas
-          name: Graph Uncertainty Quantification
-          description: Investigate uncertainty quantification on graph dynamics.
-        - icon: network-wired
-          icon_pack: fas
-          name: Transdisciplinary Graph Dynamics
-          description: How to integrate multidisciplinary advances in graph dynamics.
-        - icon: vial
-          icon_pack: fas
-          name: Graph for Bio-info/medicine
-          description: Genetics, Brain, Spatial Epidemiology.
-        - icon: microchip
-          icon_pack: fas
-          name: LLM for Graphs
-          description: Explore the use of LLM for graph dynamics.
+
     # design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
