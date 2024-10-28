@@ -54,8 +54,7 @@ highlight_name: true
 website: "leizhang.phd"
 ---
 
-Lei Zhang is currently an Assistant Professor of Computer Science at Northern Illinois University. 
-I got my Ph.D. degree at Virginia Tech, advised by [**Prof. Chang-Tien Lu**](https://people.cs.vt.edu/~ctlu/). 
+Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University. He earned his Ph.D. at Virginia Tech, where he was advised by [**Prof. Chang-Tien Lu**](https://people.cs.vt.edu/~ctlu/). 
 
 Research Areas: 
 - Artificial Intelligence
