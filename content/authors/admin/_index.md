@@ -55,9 +55,21 @@ website: "leizhang.phd"
 ---
 
 Lei Zhang is currently an Assistant Professor of Computer Science at Northern Illinois University. 
+I got my Ph.D. degree at Virginia Tech, advised by [**Prof. Chang-Tien Lu**](https://people.cs.vt.edu/~ctlu/). 
 
-I got my Ph.D. degree at Virginia Tech, advised by Prof. Chang-Tien Lu. 
+Research Areas: 
+- Artificial Intelligence
+- Machine Learning
+- Graph Learning
+- AI for Science
+- Bi-Level Optimization
 
+Current Research Problems: 
+- Graph Neural Network for Combinatorial Optimization: Can GNNs perform reasoning and tackle (NP-hard) mathematical problems that traditional algorithms usually solve?
+- Scalable Graph Structure Learning (GSL): GSL often has high time complexity due to the need to compute pairwise node correlations. Can we reduce this time complexity?
+- Gradient-based Neural Architecture Search: Neural network architectures can be represented as graph structures. Can graph neural networks learn the distribution and patterns of these architectures in graph form and generate optimal ones?  
+- Graph Neural Network for Science: For problems that AI has not yet solved, is it possible to formulate them as graph-based challenges and apply GNNs to find solutions?
+- Graph Neural Network Theory: How to bridge the gap between the spatial and spectral graph neural networks? What are the theoretical guarantees of them? 
 
 {{% callout note %}}
 Hiring PhD student to work on Graph Neural Network in Fall 2025. Fill [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfn6kMO-Wleb7R2NJLsJsbTc5N7gX1r4hx5oZacs2Od-rGUEA/viewform?usp=send_form) to apply.
