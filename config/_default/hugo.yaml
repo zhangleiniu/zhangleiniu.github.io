@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Lei Zhang" # Website name
-baseURL: 'https://leizhang.phd/' # Website URL
+baseURL: 'https://zhanglei.phd/' # Website URL
 
 ############################
 ## PAGE OPTIONS

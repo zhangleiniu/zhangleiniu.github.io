@@ -7,7 +7,9 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  mode: light
+  color: blue
+  font: rose
   font_size: L
 
 # SEO
