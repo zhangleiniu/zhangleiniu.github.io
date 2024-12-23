@@ -1,81 +1,99 @@
 ---
+# Display name
 title: Lei Zhang
-role: Assistant Prof.
 
+# Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
+# Full name (for SEO)
 first_name: Lei
 last_name: Zhang
 
+# Status emoji
 status:
-  icon: ✨
+  icon: 
+
+# Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 
+# Role/position/tagline
+role: Assistant Prof.
+
+# Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Northern Illinois University
     url: https://www.cs.niu.edu/
 
-bio: I am an Assistant Professor of Computer Science at Northern Illinois University, currently focusing on algorithmic reasoning using graphs neural networks. For students interested in my research, please explore the opportunities to work with me. If you are interested in my courses, please preview the course syllabi.
-
-# Social Networking
+# Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
-#   - icon: at-symbol
-#     url: 'mailto:zhanglei@niu.edu'
-#     label: E-mail Me
-#   - icon: assets/media/icons/google-scholar.svg
-#     url: https://scholar.google.com/citations?user=dsOZQfAAAAAJ 
+profiles:
+  - icon: at-symbol
+    url: 'mailto:zhanglei@niu.edu'
+    label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
   # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/lei-zhang-vt23/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  # - icon: academicons/cv
-  #   url: uploads/resume.pdf
-  #   label: Download my resume
-  # - icon: rss
-  #   url: ./post/index.xml
-  #   label: Subscribe to my blog via RSS feed
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
-# Interests
-interests: 
+interests:
   - Artificial Intelligence
   - Machine Learning
   - Graph Learning
   - AI for Science
   - Bi-Level Optimization
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+education:
+  - area: PhD Computer Science
+    institution: Virginia Tech
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-# Author's website URL
-website: "leizhang.phd"
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
+      
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
+
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
+## About Me
+
 Lei Zhang is an Assistant Professor of Computer Science at Northern Illinois University. He earned his Ph.D. at Virginia Tech, where he was advised by [**Prof. Chang-Tien Lu**](https://people.cs.vt.edu/~ctlu/). 
-
-Research Areas: 
-- Artificial Intelligence
-- Machine Learning
-- Graph Learning
-- AI for Science
-- Bi-Level Optimization
-
-Current Research Problems: 
-- Graph Neural Network for Combinatorial Optimization: Can GNNs perform reasoning and tackle (NP-hard) mathematical problems that traditional algorithms usually solve?
-- Scalable Graph Structure Learning (GSL): GSL often has high time complexity due to the need to compute pairwise node correlations. Can we reduce this time complexity?
-- Gradient-based Neural Architecture Search: Neural network architectures can be represented as graph structures. Can graph neural networks learn the distribution and patterns of these architectures in graph form and generate optimal ones?  
-- Graph Neural Network for Science: For problems that AI has not yet solved, is it possible to formulate them as graph-based challenges and apply GNNs to find solutions?
-- Graph Neural Network Theory: How to bridge the gap between the spatial and spectral graph neural networks? What are the theoretical guarantees of them? 
-
-{{% callout note %}}
-Hiring PhD student to work on Graph Neural Network in Fall 2025. Fill [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfn6kMO-Wleb7R2NJLsJsbTc5N7gX1r4hx5oZacs2Od-rGUEA/viewform?usp=send_form) to apply.
-{{% /callout %}}
-
-* 10/24 Tutorial Session at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)
-* 10/24 Tutorial Session at [**CIKM 24'**](https://cikm2024.org/tutorials/) 
-* 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
-* 08/24: Joined the Computer Science Department of Northern Illinois University
-* 10/23: One paper is accepted by International Conference on Data Mining (ICDM) 23' [Infinitely Deep Graph Transformation Networks](https://people.cs.vt.edu/~ctlu/Publication/2023/ICDM-Lei-Zhang-2023.pdf)

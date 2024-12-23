@@ -5,12 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: minimal
-  theme_night: minimal
   mode: light
-  color: blue
-  font: rose
-  font_size: L
+  color: green
 
 # SEO
 marketing:
@@ -19,6 +15,7 @@ marketing:
     local_business_type: ''
     org_name: 'NIU'
     description: 'Lei Zhang, Assistant Professor, NIU CS, Graph Learning, Network Science, Machine Learning'
+    twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,11 +30,12 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
-    show_logo: true
+    blox: "navbar"
+    fixed_to_top: true
     show_search: true
     show_theme_chooser: true
-    highlight_active_link: true
+    logo:
+      text: "Lei Zhang"
 
 # Site footer
 footer:
@@ -60,47 +58,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  repository:
-    url: 'https://github.com/zhangleiniu/'
-    content_dir: content
-    branch: main
-  syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: 'mapnik'
-    api_key: ''
-    zoom: 15
-
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
-
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
