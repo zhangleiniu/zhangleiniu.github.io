@@ -19,17 +19,33 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: light
+      css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: Clannad.jpg
+          filename: routing.png
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    id: News
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+       {{% callout note %}}
+        Hiring PhD student to work on Graph Neural Network in Fall 2025. Fill [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfn6kMO-Wleb7R2NJLsJsbTc5N7gX1r4hx5oZacs2Od-rGUEA/viewform?usp=send_form) to apply.
+        {{% /callout %}}
+
+        * 10/24 Tutorial Session at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)
+        * 10/24 Tutorial Session at [**CIKM 24'**](https://cikm2024.org/tutorials/) 
+        * 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+        * 08/24: Joined the Computer Science Department of Northern Illinois University
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: '♾️ My Research'
@@ -47,7 +63,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 📌Featured Publications
       filters:
         folders:
           - publication
@@ -57,7 +73,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: 📋Recent Publications
       text: ""
       filters:
         folders:
@@ -68,13 +84,23 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 📢Recent Talks
       filters:
         folders:
           - event
     design:
       view: article-grid
       columns: 1
+  - block: markdown
+    id: trivia
+    content:
+      title: '🤖Trivia'
+      subtitle: ''
+      text: |-
+        - [An Autobiography](/autobiography/)
+        - My hobbies 
+    design:
+      columns: '1'
   # - block: collection
   #   id: news
   #   content:
