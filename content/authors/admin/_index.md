@@ -33,6 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:zhanglei@niu.edu'
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=E9jCXUcAAAAJ
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
@@ -46,11 +48,11 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
+
 interests:
   - Artificial Intelligence
   - Machine Learning
   - Graph Learning
-  - AI for Science
   - Bi-Level Optimization
 
 education:

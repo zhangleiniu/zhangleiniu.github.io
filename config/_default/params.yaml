@@ -15,7 +15,7 @@ marketing:
     local_business_type: ''
     org_name: 'NIU'
     description: 'Lei Zhang, Assistant Professor, NIU CS, Graph Learning, Network Science, Machine Learning'
-    twitter: 'GetResearchDev'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,9 +40,9 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

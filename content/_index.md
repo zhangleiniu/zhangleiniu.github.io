@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: routing.png
+          filename: graph.svg
           filters:
             brightness: 1.0
           size: cover
@@ -51,13 +51,7 @@ sections:
       title: '♾️ My Research'
       subtitle: ''
       text: |-
-        - Graph Neural Network for Combinatorial Optimization: Can GNNs perform reasoning and tackle (NP-hard) mathematical problems that traditional algorithms usually solve?
-        - Scalable Graph Structure Learning (GSL): GSL often has high time complexity due to the need to compute pairwise node correlations. Can we reduce this time complexity?
-        - Gradient-based Neural Architecture Search: Neural network architectures can be represented as graph structures. Can graph neural networks learn the distribution and patterns of these architectures in graph form and generate optimal ones?  
-        - Graph Neural Network for Science: For problems that AI has not yet solved, is it possible to formulate them as graph-based challenges and apply GNNs to find solutions?
-        - Graph Neural Network Theory: How to bridge the gap between the spatial and spectral graph neural networks? What are the theoretical guarantees of them? 
-
-        Please reach out to collaborate 😃
+        I am currently exploring the reasoning and expressive capabilities of Graph Neural Networks. I am also excited about using neural networks to tackle challenging scientific problems that have yet to be addressed. Feel free to reach out if you see potential alignment and are interested in collaborating.
     design:
       columns: '1'
   - block: collection
@@ -98,7 +92,7 @@ sections:
       subtitle: ''
       text: |-
         - [An Autobiography](/autobiography/)
-        - My hobbies 
+        - [My hobbies](/hobbies/)
     design:
       columns: '1'
   # - block: collection
