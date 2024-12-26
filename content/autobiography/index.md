@@ -37,7 +37,7 @@ Despite this, I deepened my knowledge of computer science, reading extensively a
 
 One day, while reading about personality theories, I wondered: could people’s behaviors on social media correlate with personality traits? Could a program assess personality based on social media activity? Without much knowledge of machine learning, I stumbled upon a relevant problem. After some literature review, I discovered a research group at the Institute of Psychology, Chinese Academy of Sciences (CAS), working on this. I reached out to a professor there, who generously invited me to join their lab as a paid visiting student.
 
-I spent about two years at CAS, where I not only expanded my knowledge in psychology and machine learning but also met a Ph.D. student who shared many of the interests I had developed through my reading. In 2024, we got married.
+I spent about two years at CAS, where I deepened my understanding of psychology and machine learning. It was another truly fulfilling time in my life—I was financially independent, worked in a multidisciplinary team of kind and brilliant individuals, and pursued projects that genuinely interested me. During this time, I also met a new Psychology Ph.D. student who shared many of the interests I had cultivated through my reading. In 2024, she became my wife.
 
 ---
 
@@ -47,13 +47,13 @@ I passed the language exams and was admitted to Virginia Tech for a Ph.D., which
 
 This path was not straightforward. Drawing on my background in cognitive and neuroscience, I initially pursued neuroscience-inspired approaches, only to realize their limitations after extensive reading. Whether due to insufficient persistence or capability, I pivoted to a hybrid bi-level optimization topic involving graphs.
 
-This shift came at a cost. Many of my exploratory efforts failed to produce publishable results, and my inefficient approach prolonged my Ph.D. to over seven years. While I eventually graduated, I wouldn’t claim expertise in my field.
+This shift came at a cost. Many of my exploratory efforts failed to produce publishable results, and my inefficient approach prolonged my Ph.D. to over seven years. While many colleagues regard me as knowledgeable, I often lose interest in the topics I work on once I fully grasp the existing research and realize the marginal contributions I’m making. This is, unfortunately, a reality in academia—most publications, even in top-tier conferences and journals, offer only incremental advancements. While this can be disheartening, I understood that it’s a necessary part of the journey toward making a truly significant contribution, if that moment ever comes. Although I eventually completed my Ph.D., I wouldn’t consider myself an expert in the field.
 
 ---
 
 ## Now
 
-After receiving several job offers, I chose Northern Illinois University (NIU) due to its lighter teaching load, allowing me time for research. I have high hopes for graph neural networks, which I believe could be the next big breakthrough in AI. One advantage of my extensive reading and research across diverse fields is that I’m now uncovering more connections between my past experiences and what I aim to pursue next. This growing sense of integration has made research increasingly enjoyable and rewarding for me.
+After receiving several job offers, I chose Northern Illinois University (NIU) due to its lighter teaching load, allowing me time for research. Now, I have high hopes for graph neural networks, which I believe could be the next big breakthrough in AI. One advantage of my extensive reading and research across diverse fields is that I’m now uncovering more connections between my past experiences and what I aim to pursue next. This growing sense of integration has made research increasingly enjoyable and rewarding for me.
 
 ---
 

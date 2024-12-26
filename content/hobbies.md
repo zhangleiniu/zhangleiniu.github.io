@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Hobbies
-      text: I enjoy creating and building things. Over the years, I’ve developed hobbies in mechanical keyboards and retro gaming devices. For mechanical keyboards, I’ve explored areas like 3D modeling, firmware development, PCB design, vintage keyboard collection, keycap set design, and manufacturing. In the realm of retro gaming devices, I focus on reverse engineering. Below are some of my designs, all of which I have had physically manufactured.
+      text: I enjoy creating and building things. Over the years, I’ve developed hobbies in mechanical keyboards and retro devices. For mechanical keyboards, I engage in 3D modeling, firmware development, and PCB design, and I also collect vintage keyboards and switches. In the realm of retro devices, I focus on reverse engineering. Below are some of my designs, all of which have been physically manufactured.
       filters:
         folders:
           - hobbie
