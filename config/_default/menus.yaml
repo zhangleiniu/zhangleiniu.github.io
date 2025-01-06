@@ -28,3 +28,6 @@ main:
   - name: Trivia
     url: /#trivia
     weight: 50
+  - name: Wiki
+    url: "https://zhanglei-wiki.notion.site/main"
+    weight: 60
