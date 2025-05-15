@@ -42,7 +42,7 @@ sections:
 
         * 05/25 One paper is accepted by KDD2025
         * 05/25 Chaired one session at SIAM SDM 25'
-        * 05/24 Hosted tutorial session at [**SIAM SDM 25'**](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) 
+        * 05/25 Hosted tutorial session at [**SIAM SDM 25'**](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) 
         * 04/25 One paper is accepted by Knowledge and Information Systems (KAIS)
         * 10/24 Hosted tutorial session at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)
         * 10/24 Hosted tutorial session at [**CIKM 24'**](https://cikm2024.org/tutorials/) 
