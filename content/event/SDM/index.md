@@ -1,7 +1,7 @@
 ---
 title: SDM 25' Tutorial
 
-event: CIKM2025
+event: SDM25
 event_url: https://meetings.siam.org/program.cfm?CONFCODE=SDM25
 
 location: The Westin Alexandria Old Town
