@@ -39,6 +39,7 @@ sections:
        {{% callout note %}}
         Hiring PhD student to work on Graph Neural Network in Fall 2026. Fill [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfn6kMO-Wleb7R2NJLsJsbTc5N7gX1r4hx5oZacs2Od-rGUEA/viewform?usp=send_form) to apply.
         {{% /callout %}}
+        
         * One paper is accepted by Knowledge and Information Systems (KAIS)
         * 05/25 One paper is accepted by KDD2025
         * 05/25 Chaired one session at SIAM SDM 25'
