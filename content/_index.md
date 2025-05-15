@@ -40,13 +40,13 @@ sections:
         Hiring PhD student to work on Graph Neural Network in Fall 2026. Fill [**this form**](https://docs.google.com/forms/d/e/1FAIpQLSfn6kMO-Wleb7R2NJLsJsbTc5N7gX1r4hx5oZacs2Od-rGUEA/viewform?usp=send_form) to apply.
         {{% /callout %}}
         * One paper is accepted by Knowledge and Information Systems (KAIS)
-        * 5/25 One paper is accepted by KDD2025
-        * 5/25 Chaired one session at SIAM SDM 25'**
+        * 05/25 One paper is accepted by KDD2025
+        * 05/25 Chaired one session at SIAM SDM 25'**
+        * 05/24 Hosted tutorial session at [**SIAM SDM 25'**](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) 
         * 04/25 One paper is accepted by Knowledge and Information Systems (KAIS)
-        * 10/24 Hosted tutorial session at [**SIAM SDM 25'**](https://meetings.siam.org/program.cfm?CONFCODE=SDM25) 
         * 10/24 Hosted tutorial session at [**SIAM MDS 24'**](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=80791)
         * 10/24 Hosted tutorial session at [**CIKM 24'**](https://cikm2024.org/tutorials/) 
-        * 6/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
+        * 06/24: Check our **[CVPR 24'](https://cvpr.thecvf.com/virtual/2024/tutorial/23726)** tutorial on <u>Unifying Spectral and Spatial Graph Neural Network</u>. See the tutorial website [CVPR 24' Tutorial](https://xgraph.team/course/cvpr24/).
         * 08/24: Joined the Computer Science Department of Northern Illinois University
     design:
       columns: '1'
